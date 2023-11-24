@@ -1,0 +1,15 @@
+D:\llll\大三下\数据库\RC1\RC1\bin\Debug\RC1.exe.config
+D:\llll\大三下\数据库\RC1\RC1\bin\Debug\RC1.exe
+D:\llll\大三下\数据库\RC1\RC1\bin\Debug\RC1.pdb
+D:\llll\大三下\数据库\RC1\RC1\obj\Debug\RC1.csprojResolveAssemblyReference.cache
+D:\llll\大三下\数据库\RC1\RC1\obj\Debug\RC1.Properties.Resources.resources
+D:\llll\大三下\数据库\RC1\RC1\obj\Debug\RC1.q1.resources
+D:\llll\大三下\数据库\RC1\RC1\obj\Debug\RC1.csproj.GenerateResource.Cache
+D:\llll\大三下\数据库\RC1\RC1\obj\Debug\RC1.exe
+D:\llll\大三下\数据库\RC1\RC1\obj\Debug\RC1.pdb
+D:\llll\大三下\数据库\RC1\RC1\obj\Debug\RC1.rebar.resources
+D:\llll\大三下\数据库\RC1\RC1\obj\Debug\RC1.tabcontrol.resources
+D:\llll\大三下\数据库\RC1\RC1\obj\Debug\RC1.q3.resources
+D:\llll\大三下\数据库\RC1\RC1\bin\Debug\WindowsFormsApplication5.exe
+D:\llll\大三下\数据库\RC1\RC1\bin\Debug\WindowsFormsApplication5.pdb
+D:\llll\大三下\数据库\RC1\RC1\obj\Debug\RC1.Form11.resources
